@@ -6,7 +6,7 @@ This repository presents a comprehensive analysis of European football player da
 2. Exploratory Data Analysis (EDA) (Section #2)
 3. Statistical Modelling (Section #3 and #4)
 
-The table below is the metadata of the ['European Football Players']():
+The table below is the metadata of the ['European Football Players'](https://github.com/hawra-nawi/Football-European-Players-QDA/tree/main/Data):
 
 | Column Name | Column Description |
 | --- | --- |
