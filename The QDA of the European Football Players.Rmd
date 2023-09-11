@@ -3,11 +3,12 @@ title: "The Quantitative Data Analysis of the European Football Players"
 author: "Hawra Nawrozzadeh"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
 version: 1
-editor_options: 
+editor_options:
   chunk_output_type: console
 ---
 
@@ -64,7 +65,7 @@ football <- read.csv("Data/football.csv", stringsAsFactors = FALSE)
 Data quality analysis is an essential process to optimise the data and statistics. The quality of the dataset refers to accuracy, consistency, completeness and reliability of the data (see framework below). Measuring and checking the quality of the data identifies potential errors, that should be resolved appropriately, to prevent misleading results and conclusions ([1](https://bookdown.org/martin_shepperd/ModernDataBook/C5_CentralRole.html),[2](https://www.northampton.gov.uk/info/100004/your-council/1115/data-quality),[3](https://www.omnisci.com/technical-glossary/data-quality)).
 
 The analysis will involve looking at the summary of the data, to check and confirm which variables are numerical continuous or categorical, and if the categorical are stored as factors. This will also check for outliers, data which does not fit within the range of data being observed, including any missing data. Visualising the data will check for any other unusual behaviour or patterns, where appropriate. 
-![Figure 1: General Data Quality Framework(4)](https://www.lean-data.nl/wp-content/uploads/2018/12/Data-quality-dimensions.png)
+![Figure 1: General Data Quality Framework(4)](Images/DataQualityDimensions.png)
 
 ### 1.2.1 Eyeballing and confirming the data types and classification of the data set
 
