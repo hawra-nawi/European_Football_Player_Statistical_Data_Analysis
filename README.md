@@ -67,7 +67,7 @@
 ### Diagnostic Measures
 
 ### Diagnostic Measures
-[model](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Statistical%20Modelling/Logistic%20Regression/Model.png)
+![model](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Statistical%20Modelling/Logistic%20Regression/Model.png)
 
 ![odd ratio](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Statistical%20Modelling/Logistic%20Regression/odd%20ratio.png)
 
