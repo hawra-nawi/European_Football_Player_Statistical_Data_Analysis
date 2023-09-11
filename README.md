@@ -21,3 +21,6 @@
     - Visualizing data anomalies
 
 Examples of Data Cleaning
+![The Before and After Cleaning Process for Pace.png](Images/Data Analysis Section/The Before and After Cleaning Process for Pace.png)
+
+![The Before and After Cleaning Process for Preferred Foot.png](Images/Data Analysis Section/The Before and After Cleaning Process for Preferred Foot.png)
