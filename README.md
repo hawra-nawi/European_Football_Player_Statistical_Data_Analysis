@@ -8,7 +8,7 @@
     - **ANCOVA Analysis:** Assessing factors influencing a player's potential.
     - **Logistic Regression Analysis:** Investigating factors affecting a player's likelihood to earn a high weekly wage.
 - R libraries used: dplyr, ggplot2, gridExtra, grid, corrplot, reshape2.
-- Access the document in RMarkdown, HTML, and PDF formats.
+- Access the document in [RMarkdown](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/The%20QDA%20of%20the%20European%20Football%20Players.Rmd), [HTML](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/The-QDA-of-the-European-Football-Players.html), and [PDF](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/The-QDA-of-the-European-Football-Players.pdf) formats.
 
 ## **Data Quality Analysis (Section #1)**
 
