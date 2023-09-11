@@ -23,4 +23,4 @@
 Examples of Data Cleaning
 ![The Before and After Cleaning Process for Pace.png](Images/Data Analysis Section/The Before and After Cleaning Process for Pace.png)
 
-![The Before and After Cleaning Process for Preferred Foot.png]([Images/Data Analysis Section/The Before and After Cleaning Process for Preferred Foot.png](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Data%20Analysis%20Section/The%20Before%20and%20After%20Cleaning%20Process%20for%20Preferred%20Foot.png)https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Data%20Analysis%20Section/The%20Before%20and%20After%20Cleaning%20Process%20for%20Preferred%20Foot.png)
+![The Before and After Cleaning Process for Preferred Foot.png](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Data%20Analysis%20Section/The%20Before%20and%20After%20Cleaning%20Process%20for%20Preferred%20Foot.png)
