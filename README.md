@@ -20,7 +20,8 @@
     - Addressing missing data
     - Visualizing data anomalies
 
-Examples of Data Cleaning
+### **Examples of Data Cleaning**
+
 ![The Before and After Cleaning Process for Pace.png](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Data%20Analysis%20Section/The%20Before%20and%20After%20Cleaning%20Process%20for%20Pace.png)
 
 ![The Before and After Cleaning Process for Preferred Foot.png](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Data%20Analysis%20Section/The%20Before%20and%20After%20Cleaning%20Process%20for%20Preferred%20Foot.png)
@@ -64,6 +65,8 @@ Examples of Data Cleaning
     - $log(\frac{p}{1-p})=a + b1 \times x1 + b2 \times x2 ....bk \times xk$
 
 ### Diagnostic Measures
+
+### Diagnostic Measures
 [model](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Statistical%20Modelling/Logistic%20Regression/Model.png)
 
 ![odd ratio](https://github.com/hawra-nawi/Football-European-Players-QDA/blob/main/Images/Statistical%20Modelling/Logistic%20Regression/odd%20ratio.png)
@@ -75,5 +78,3 @@ Examples of Data Cleaning
 - In conclusion, this project underscores the significance of data quality, exploratory data analysis, and statistical modeling in extracting valuable insights from European football player data.
 - By following these analytical steps, the report ensures reproducibility and provides valuable insights into the world of football statistics.
 - These findings can be invaluable for clubs, analysts, and enthusiasts looking to understand the factors influencing a player's potential and earnings in the dynamic world of European football.
-
-
