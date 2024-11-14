@@ -23,4 +23,4 @@ This project enhances player potential insights by 50% through ANCOVA analysis, 
 - **Packages**: `dplyr`, `ggplot2`, `tidyr`, `car`, `MASS`
 
 ## **Documentation**  
-Access the document in RMarkdown, HTML, and PDF formats.
+Access the document in [RMarkdown](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Data%20Analysis%20and%20Statistical%20Modelling.Rmd), [HTML](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Documentation%20Report.html), and [PDF](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Documentation%20Report.pdf) formats.
