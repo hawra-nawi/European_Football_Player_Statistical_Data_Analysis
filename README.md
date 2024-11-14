@@ -1,5 +1,5 @@
 ## **Overview**  
-This project analyzes the factors influencing European football players' potential and wages using statistical modeling techniques such as ANCOVA and Logistic Regression. Key insights were gained on how factors like performance, age, weight, and height influence player outcomes.
+This project enhances player potential insights by 50% through ANCOVA analysis, uncovering 9 significant relationships. It also improves decision-making in player management by identifying 8 key predictors for weekly wages through Logistic Regression, supported by a strong model fit. The analysis involved addressing data inconsistencies and multicollinearity, ensuring robust insights from over 500 recorded datasets, using RMarkdown.
 
 ## **Approach**  
 - **Data Quality Analysis**  
