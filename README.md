@@ -1,5 +1,5 @@
 ## **Overview**  
-This project enhances player potential insights by 50% through ANCOVA analysis, uncovering 9 significant relationships. It also improves decision-making in player management by identifying 8 key predictors for weekly wages through Logistic Regression, supported by a strong model fit. The analysis involved addressing data inconsistencies and multicollinearity, ensuring robust insights from over 500 recorded datasets, using RMarkdown.
+This project enhances player potential insights by 50% through ANCOVA analysis, uncovering 9 significant relationships. It also improves decision-making in player management by identifying 8 key predictors for weekly wages through Logistic Regression, supported by a strong model fit. The analysis involved addressing data inconsistencies and multicollinearity, ensuring robust insights from over 500 recorded [datasets](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Data%20Analysis%20and%20Statistical%20Modelling/Data/football.csv), using **R**.
 
 ## **Approach**  
 - **Data Quality Analysis**  
@@ -23,4 +23,4 @@ This project enhances player potential insights by 50% through ANCOVA analysis, 
 - **Packages**: `dplyr`, `ggplot2`, `tidyr`, `car`, `MASS`
 
 ## **Documentation**  
-Access the document in [RMarkdown](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Data%20Analysis%20and%20Statistical%20Modelling.Rmd), [HTML](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Documentation%20Report.html), and [PDF](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Documentation%20Report.pdf) formats.
+Access the code script and documents in [RMarkdown](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Data%20Analysis%20and%20Statistical%20Modelling/Data%20Analysis%20and%20Statiscal%20Modelling.Rmd), [HTML](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Documentation%20Report.html), and [PDF](https://github.com/hawra-nawi/Statistical-Modelling-of-Factors-Influencing-European-Football-Players-Potential-and-Wages/blob/main/Documentation%20Report.pdf) formats.
